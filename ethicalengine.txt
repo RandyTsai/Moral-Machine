@@ -1,0 +1,14 @@
+List of classes inside of ethicalengine package:
+
+Animal.java
+
+Character.java
+
+Person.java
+
+Scenario.java
+
+ScenarioGenerator.java
+
+
+*no custom class
